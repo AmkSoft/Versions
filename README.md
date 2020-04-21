@@ -1,2 +1,2 @@
 # Versions
-Contains Version for deployed Plugins
+Contains current Version for deployed Plugins
